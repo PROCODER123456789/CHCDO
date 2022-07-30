@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+
+h4 {
+
+text-align: center;  
+font-family: cursive;
+font-size: 30;
+
+}
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+u{
+    text-align: center;
+    font-family: 'Square Peg', cursive;
+    font-size: 30;
+    color: blue;
+}
+
+#Logo{
+border-radius: 360px;
+}
+.grab {cursor: -webkit-grab; cursor: grab;}
+
+body{
+  background-image: linear-gradient(to right top, #ff9100,#ffc400,#eeff01, #fdff6a, #fcf488, #f8fa7c);
+}
+
+.copy_right_footer{
+  position: fixed;
+  color: black;
+  bottom: 0;
+  width: 100%;
+  background-image: linear-gradient(to left bottom, red, orange, rgb(0, 255, 0), blue, violet);
+  line-height: 3;
+  text-align: center;
+  
+
+}
+h2{
+  text-align: center;
+  font-size: 30;
+}
+
